@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCalculatoare xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Calculatoare>
+    <nume>Lenovo</nume>
+    <pret>3</pret>
+    <model>v3</model>
+    <componente>Placa de baza, CPU, Memorie RAM, Mouse</componente>
+    <Nume>Lenovo</Nume>
+    <Pret>3</Pret>
+    <Model>v3</Model>
+    <Lista>Placa de baza, CPU, Memorie RAM, Mouse</Lista>
+  </Calculatoare>
+  <Calculatoare>
+    <nume>Lenovo</nume>
+    <pret>3</pret>
+    <model>v3</model>
+    <componente>Placa de baza, CPU, Memorie RAM, Mouse</componente>
+    <Nume>Lenovo</Nume>
+    <Pret>3</Pret>
+    <Model>v3</Model>
+    <Lista>Placa de baza, CPU, Memorie RAM, Mouse</Lista>
+  </Calculatoare>
+  <Calculatoare>
+    <nume>Lenovo</nume>
+    <pret>3</pret>
+    <model>v3</model>
+    <componente>Placa de baza, CPU, Memorie RAM, Mouse</componente>
+    <Nume>Lenovo</Nume>
+    <Pret>3</Pret>
+    <Model>v3</Model>
+    <Lista>Placa de baza, CPU, Memorie RAM, Mouse</Lista>
+  </Calculatoare>
+  <Calculatoare>
+    <nume>Lenovo</nume>
+    <pret>3</pret>
+    <model>v3</model>
+    <componente>Placa de baza, CPU, Memorie RAM, Mouse</componente>
+    <Nume>Lenovo</Nume>
+    <Pret>3</Pret>
+    <Model>v3</Model>
+    <Lista>Placa de baza, CPU, Memorie RAM, Mouse</Lista>
+  </Calculatoare>
+  <Calculatoare>
+    <nume>Lenovo</nume>
+    <pret>3</pret>
+    <model>v3</model>
+    <componente>Placa de baza, CPU, Memorie RAM, Mouse</componente>
+    <Nume>Lenovo</Nume>
+    <Pret>3</Pret>
+    <Model>v3</Model>
+    <Lista>Placa de baza, CPU, Memorie RAM, Mouse</Lista>
+  </Calculatoare>
+  <Calculatoare>
+    <nume>Lenovo</nume>
+    <pret>3</pret>
+    <model>v3</model>
+    <componente>Placa de baza, CPU, Memorie RAM, Mouse</componente>
+    <Nume>Lenovo</Nume>
+    <Pret>3</Pret>
+    <Model>v3</Model>
+    <Lista>Placa de baza, CPU, Memorie RAM, Mouse</Lista>
+  </Calculatoare>
+  <Calculatoare>
+    <nume>Lenovo</nume>
+    <pret>3</pret>
+    <model>v3</model>
+    <componente>Placa de baza, CPU, Memorie RAM, Mouse, sdcs</componente>
+    <Nume>Lenovo</Nume>
+    <Pret>3</Pret>
+    <Model>v3</Model>
+    <Lista>Placa de baza, CPU, Memorie RAM, Mouse, sdcs</Lista>
+  </Calculatoare>
+</ArrayOfCalculatoare>

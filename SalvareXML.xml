@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCalculatoare xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Calculatoare>
+    <nume>Lenovo</nume>
+    <pret>6</pret>
+    <model>v3</model>
+    <componente>Placa de baza, CPU, Memorie RAM, Carcasa</componente>
+    <Nume>Lenovo</Nume>
+    <Pret>6</Pret>
+    <Model>v3</Model>
+    <Lista>Placa de baza, CPU, Memorie RAM, Carcasa</Lista>
+  </Calculatoare>
+  <Calculatoare>
+    <nume>Lenovo</nume>
+    <pret>6</pret>
+    <model>v3</model>
+    <componente>Placa de baza, CPU, Memorie RAM, Carcasa, Mouse</componente>
+    <Nume>Lenovo</Nume>
+    <Pret>6</Pret>
+    <Model>v3</Model>
+    <Lista>Placa de baza, CPU, Memorie RAM, Carcasa, Mouse</Lista>
+  </Calculatoare>
+</ArrayOfCalculatoare>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdaugaGrafic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdaugareChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CompatibilitateHelper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAdaugaComponente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InformatiiProiect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Introducere.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="VerificareCompatibilitate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
